@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#quote-box{
+  width: 28rem;
+  background-color: white;
+  color: black;
+}
+
